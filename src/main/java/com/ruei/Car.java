@@ -6,6 +6,6 @@ public class Car {
     long leave;
 
     public Car(String id){
-
+        this.id = id;
     }
 }
